@@ -1,16 +1,13 @@
-## Hi there 👋
+##EI DE BOA
 
-<!--
-**miguel0820/miguel0820** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Miguel Inacio
 
-Here are some ideas to get you started:
+Estou visitando a Alura
+Estou dessenvoivendo a linguagen javaScipt
+Utilizou esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Chama-nos
+ig:@_MIGUELINACIO_
+00001114238533sp@al.educacao.sp.gov.br
+(19)992294041
